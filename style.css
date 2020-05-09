@@ -47,4 +47,6 @@ body {
     transition: box-shadow 0.3s linear;
   }
   
-  .border-button:hover { box-shadow: 0px 0px 0px 10px #304D96; background-color: #4770D8;}
+  .border-button:hover { box-shadow: 0px 0px 0px 10px #304D96; background-color: #304D96;}
+
+  .disabled_bg{background-color: #304D96;}
